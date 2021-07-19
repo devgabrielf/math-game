@@ -1,0 +1,1 @@
+Jogo simples em que o jogador pode escolher entre três dificuldades e, a depender dela, são apresentadas questões com contas matemáticas a serem resolvidas. Cada acerto confere ao jogador uma quantidade de pontos de acordo com a dificuldade da questão: 1 ponto para a dificuldade 1, 2 pontos para a dificuldade 2 e 3 pontos para a dificuldade 3.
